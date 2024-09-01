@@ -29,11 +29,11 @@ Lab On Java Questions :-
     Q14- Write a java program to check whether the year is leap year or not.
 
     Q15- Write a java program to get the marks of 5 subjects through command line argument. Calculate marks percentage and display the grade of students as per the following criteria :-
-    Percentage >= 70 (Distinction)
-    Percentage >= 60 (First Class)
-    Percentage >= 50 (Higher Second Class)
-    Percentage >= 40 (Second Class)
-    Percentage <= 40 (Fail)
+        Percentage >= 70 (Distinction)
+        Percentage >= 60 (First Class)
+        Percentage >= 50 (Higher Second Class)
+        Percentage >= 40 (Second Class)
+        Percentage <= 40 (Fail)
 
     Q16- Write a java program to demonstrate nested if to check whether the number is positive or negative.
 
