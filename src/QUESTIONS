@@ -1,166 +1,166 @@
 Lab On Java Questions :-
 
-Q1- Write your first program using java.
+    Q1- Write your first program using java.
 
-Q2- Write a java program to add 2 numbers.
+    Q2- Write a java program to add 2 numbers.
 
-Q3- Write a java program to add, subtract, multiply and divide 2 numbers.
+    Q3- Write a java program to add, subtract, multiply and divide 2 numbers.
 
-Q4- Write a java program to create a table of a number.
+    Q4- Write a java program to create a table of a number.
 
-Q5- Write a java program to demonstrate all primitive data types.
+    Q5- Write a java program to demonstrate all primitive data types.
 
-Q6- Write a java program to demonstrate constant variables.
+    Q6- Write a java program to demonstrate constant variables.
 
-Q7- Write a java program to demonstrate different types of variables.
+    Q7- Write a java program to demonstrate different types of variables.
 
-Q8- Write a java program to store your mobile number and print the same.
+    Q8- Write a java program to store your mobile number and print the same.
 
-Q9- Write a java program to understand bitwise operations.
+    Q9- Write a java program to understand bitwise operations.
 
-Q10- Write a java program to understand logical operations.
+    Q10- Write a java program to understand logical operations.
 
-Q11- Write a java program to demonstrate simple if statement.
+    Q11- Write a java program to demonstrate simple if statement.
 
-Q12- Write a java program to demonstrate if else statement.
+    Q12- Write a java program to demonstrate if else statement.
 
-Q13- Write a java program to check whether the given number (enter the number using command line argument) is divisible by 5 and 7.
+    Q13- Write a java program to check whether the given number (enter the number using command line argument) is divisible by 5 and 7.
 
-Q14- Write a java program to check whether the year is leap year or not.
+    Q14- Write a java program to check whether the year is leap year or not.
 
-Q15- Write a java program to get the marks of 5 subjects through command line argument. Calculate marks percentage and display the grade of students as per the following criteria :-
-Percentage >= 70 (Distinction)
-Percentage >= 60 (First Class)
-Percentage >= 50 (Higher Second Class)
-Percentage >= 40 (Second Class)
-Percentage <= 40 (Fail)
+    Q15- Write a java program to get the marks of 5 subjects through command line argument. Calculate marks percentage and display the grade of students as per the following criteria :-
+    Percentage >= 70 (Distinction)
+    Percentage >= 60 (First Class)
+    Percentage >= 50 (Higher Second Class)
+    Percentage >= 40 (Second Class)
+    Percentage <= 40 (Fail)
 
-Q16- Write a java program to demonstrate nested if to check whether the number is positive or negative.
+    Q16- Write a java program to demonstrate nested if to check whether the number is positive or negative.
 
-Q17- Write a java program to find greatest among the three given numbers( enter number using command line argument).
+    Q17- Write a java program to find greatest among the three given numbers( enter number using command line argument).
 
-Q18- Write a java program to display the name of the month according to the month number entered using if else.
+    Q18- Write a java program to display the name of the month according to the month number entered using if else.
 
-Q19- Write a java program to display the number of days in a month according to the entered month number.
+    Q19- Write a java program to display the number of days in a month according to the entered month number.
 
-Q20- Write a java program to swap two numbers without the help of the third variable.
+    Q20- Write a java program to swap two numbers without the help of the third variable.
 
-Q21- Write a java program to demonstrate while loop.
+    Q21- Write a java program to demonstrate while loop.
 
-Q22- Write a java program to display the name of the fruit based on the initial character using the switch case.
+    Q22- Write a java program to display the name of the fruit based on the initial character using the switch case.
 
-Q23- Write a java ava program to display days of the week using the switch case.
+    Q23- Write a java ava program to display days of the week using the switch case.
 
-Q24- Write a java program to display the month name according to the month number using the switch case.
+    Q24- Write a java program to display the month name according to the month number using the switch case.
 
-Q25- Write a java program to demonstrate do while loop.
+    Q25- Write a java program to demonstrate do while loop.
 
-Q26- Write a java program to demonstrate for loop.
+    Q26- Write a java program to demonstrate for loop.
 
-Q27- Write a java program to print all even numbers from 0 to 100.
+    Q27- Write a java program to print all even numbers from 0 to 100.
 
-Q28- Write a java program to print the pattern using nested for loop.
-*
-**
-***
-****
-*****
-
-Q29- Write a java program to print the pattern in reverse order using nested for loop.
-*****
-****
-***
-**
-*
-
-Q30- Write a java program to print the pattern using nested for loop.
-1
-22
-333
-4444
-55555
-
-Q31- Write a java program to print the pattern in reverse order using nested for loop.
-55555
-4444
-333
-22
-1
-
-Q32- Write a java program to print the pattern using nested for loop.
-1
-12
-123
-1234
-12345
-
-Q33- Write a java program to print the pattern in reverse order using nested for loop.
-12345
-1234
-123
-12
-1
-
-Q34- Write a java program to print the pattern using nested for loop.
-      *
+    Q28- Write a java program to print the pattern using nested for loop.
+    *
+    **
     ***
-  *****
-*******
+    ****
+    *****
 
-Q35- Write a java program to print the pattern using nested for loop.
-     *
-   ***
- *****
-*******
-*******
-  *****
-   ***
-     *
+    Q29- Write a java program to print the pattern in reverse order using nested for loop.
+    *****
+    ****
+    ***
+    **
+    *
 
-Q36- Write a java program to print the pattern using nested for loop.
-*******
-  *****
-   ***
-     *
-     *
-   ***
-  *****
-*******
+    Q30- Write a java program to print the pattern using nested for loop.
+    1
+    22
+    333
+    4444
+    55555
 
-Q37- Write a java program to print the pattern using nested for loop.
-*******
-  *****
-   ***
-     *
+    Q31- Write a java program to print the pattern in reverse order using nested for loop.
+    55555
+    4444
+    333
+    22
+    1
 
-Q38- On the occasion of rakshabandhan the shopper stop announced one offer as follows :-
-Below 10000 bill discount will be given 50% on the sum of digits of the bill.
-Above 10000 bill discount will be given as equal to the sum of the bill.
+    Q32- Write a java program to print the pattern using nested for loop.
+    1
+    12
+    123
+    1234
+    12345
 
-Q39- Write a java program to reverse a number without using any inbuilt function.
+    Q33- Write a java program to print the pattern in reverse order using nested for loop.
+    12345
+    1234
+    123
+    12
+    1
 
-Q40- Write a java program to check whether the given number is prime number.
+    Q34- Write a java program to print the pattern using nested for loop.
+          *
+        ***
+      *****
+    *******
 
-Q41- Write a java program to print all the prime numbers between an entered range.
+    Q35- Write a java program to print the pattern using nested for loop.
+         *
+       ***
+     *****
+    *******
+    *******
+      *****
+       ***
+         *
 
-Q42- Write a java program to sum the digits of a number if the entered number is prime number.
+    Q36- Write a java program to print the pattern using nested for loop.
+    *******
+      *****
+       ***
+         *
+         *
+       ***
+      *****
+    *******
 
-Q43- Write a java program to calculate the sum of odd digits of a given number.
+    Q37- Write a java program to print the pattern using nested for loop.
+    *******
+      *****
+       ***
+         *
 
-Q44- Write a java program to check whether an entered number is a perfect number or not.
+    Q38- On the occasion of rakshabandhan the shopper stop announced one offer as follows :-
+    Below 10000 bill discount will be given 50% on the sum of digits of the bill.
+    Above 10000 bill discount will be given as equal to the sum of the bill.
 
-Q45- Write a java program to print all the perfect numbers between a given range(enter the range using command line argument).
+    Q39- Write a java program to reverse a number without using any inbuilt function.
 
-Q46- Write a java program to print the next 5 perfect numbers from a given perfect number.
+    Q40- Write a java program to check whether the given number is prime number.
 
-Q47- Write a java program to check whether an entered number is a armstrong number.
+    Q41- Write a java program to print all the prime numbers between an entered range.
 
-Q48- Write a java program to print all the armstrong numbers between a given range(enter the range using command line argument).
+    Q42- Write a java program to sum the digits of a number if the entered number is prime number.
 
-Q49- Write a java program to print n numbers of armstrong numbers from a x variable.
+    Q43- Write a java program to calculate the sum of odd digits of a given number.
 
-Q50- Write a java program to demonstrate break statement.
+    Q44- Write a java program to check whether an entered number is a perfect number or not.
 
-Q51- Write a java program to demonstrate continue statement.
+    Q45- Write a java program to print all the perfect numbers between a given range(enter the range using command line argument).
 
-Q52- Write a java program to demonstrate return statement.
+    Q46- Write a java program to print the next 5 perfect numbers from a given perfect number.
+
+    Q47- Write a java program to check whether an entered number is a armstrong number.
+
+    Q48- Write a java program to print all the armstrong numbers between a given range(enter the range using command line argument).
+
+    Q49- Write a java program to print n numbers of armstrong numbers from a x variable.
+
+    Q50- Write a java program to demonstrate break statement.
+
+    Q51- Write a java program to demonstrate continue statement.
+
+    Q52- Write a java program to demonstrate return statement.
