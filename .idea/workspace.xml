@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Updated workspacce.xml">
-      <change afterPath="$PROJECT_DIR$/src/Q48.java" afterDir="false" />
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Updated workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Q1.executor": "Run",
-    "Application.Q27.executor": "Run",
-    "Application.Q48.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/IntelliJ IDEA/JAVA/CES File/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q48.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelliJ IDEA/JAVA/CES File/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725224248749</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added solution of Q48">
+      <option name="closed" value="true" />
+      <created>1725310773141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725310773141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1725310807376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725310807376</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +153,8 @@
     <MESSAGE value="Deleted Default file, Added Ces File.iml" />
     <MESSAGE value="Added solution of Q38-Q47" />
     <MESSAGE value="Updated workspacce.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspacce.xml" />
+    <MESSAGE value="Added solution of Q48" />
+    <MESSAGE value="Updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
   </component>
 </project>
