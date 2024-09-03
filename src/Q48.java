@@ -8,7 +8,7 @@ public class Q48 {
             if (i < 10) {
                 int rem = i*i;
                 if (rem == i) {
-                    System.out.println(i + " is an armstrong number.");
+                    System.out.println(i);
                 }
             } else {
                 int numCopy = i;
@@ -33,7 +33,7 @@ public class Q48 {
                 }
 
                 if (Sum == numCopy) {
-                    System.out.println(numCopy + " is an Armstrong Number");
+                    System.out.println(numCopy);
                 }
                 i = numCopy;
             }
