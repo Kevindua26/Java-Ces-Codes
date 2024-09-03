@@ -38,6 +38,5 @@ public class Q48 {
                 i = numCopy;
             }
         }
-        System.out.println("-> Kaivalaya Dua (0231BCA205)");
     }
 }
