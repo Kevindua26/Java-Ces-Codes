@@ -18,4 +18,3 @@ public class Q29 {
         }
     }
 }
-//write a java program to demonstrate class and object the concept.
