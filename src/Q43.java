@@ -3,13 +3,13 @@ public class Q43 {
     public static void main(String[] args) {
         int num = Integer.parseInt(args[0]);
         int sum = 0;
-        if (num % 2 != 0) {
-            while (num > 0) {
-                int rem = num % 10;
+        while (num > 0) {
+            int rem = num % 10;
+            if (num % 2 != 0) {
                 sum += rem;
-                num /= 10;
             }
-            System.out.println("The sum of digits is: " + sum);
+            num /= 10;
         }
+        System.out.println("The sum of digits is: " + sum);
     }
 }
