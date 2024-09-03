@@ -43,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Q1.executor": "Run",
-    "Application.Q27.executor": "Run",
-    "Application.Q48.executor": "Run",
-    "Application.Q49.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/IntelliJ IDEA/JAVA/CES File/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q48.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q49.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelliJ IDEA/JAVA/CES File/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -186,7 +186,39 @@
       <option name="project" value="LOCAL" />
       <updated>1725394823878</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1725395034994</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395034994</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Q29 modified">
+      <option name="closed" value="true" />
+      <created>1725395146441</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395146441</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Q29 modified">
+      <option name="closed" value="true" />
+      <created>1725395165976</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395165976</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1725395192165</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395192165</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +243,7 @@
     <MESSAGE value="Added solution of Q28-Q37" />
     <MESSAGE value="Q48 modified" />
     <MESSAGE value="Added solution of Q49" />
+    <MESSAGE value="Q29 modified" />
     <MESSAGE value="Updated workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
   </component>
