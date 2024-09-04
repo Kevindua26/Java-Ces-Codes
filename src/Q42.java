@@ -5,7 +5,7 @@ public class Q42 {
         int i = 2;
         int temp = 0;
 
-        while (i < Math.sqrt(num)) {
+        while (i <= Math.sqrt(num)) {
             if (num % i == 0) {
                 temp = 1;
             }
