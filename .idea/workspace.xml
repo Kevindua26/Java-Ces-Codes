@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Corrected error in Q29">
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Corrected error in Q42">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +23,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Kevindua26&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
   }
-}</component>
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOMrQXOM56fMQ1",
+        "number": 1
+      },
+      "lastSeen": 1725523192559
+    }
+  ]
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Kevindua26/Ces-File-Codes.git&quot;,
@@ -52,8 +68,12 @@
     "Application.Q27.executor": "Run",
     "Application.Q29.executor": "Run",
     "Application.Q43.executor": "Run",
+    "Application.Q44.executor": "Run",
     "Application.Q48.executor": "Run",
     "Application.Q49.executor": "Run",
+    "Application.Q50.executor": "Run",
+    "Application.Q51.executor": "Run",
+    "Application.Q52.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -246,7 +266,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725455116818</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1725458997519</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725458997519</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added solution of Q50-Q52">
+      <option name="closed" value="true" />
+      <created>1725480328284</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725480328284</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Corrected error in Q42">
+      <option name="closed" value="true" />
+      <created>1725483665428</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725483665428</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,8 +317,10 @@
     <MESSAGE value="Added solution of Q49" />
     <MESSAGE value="Q29 modified" />
     <MESSAGE value="Corrected an error in Q43" />
-    <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Corrected error in Q29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected error in Q29" />
+    <MESSAGE value="Updated workspace.xml" />
+    <MESSAGE value="Added solution of Q50-Q52" />
+    <MESSAGE value="Corrected error in Q42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected error in Q42" />
   </component>
 </project>
