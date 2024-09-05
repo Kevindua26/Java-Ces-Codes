@@ -1,8 +1,9 @@
-
-//Q46- Write a java program to print the next 5 perfect numbers from a given perfect number.
 public class Q46 {
+    //Q46- Write a java program to print the next 5 perfect numbers from a given perfect number.
     public static void main(String[] args) {
-        optimizedCount(10,7);
+        int num = Integer.parseInt(args[0]);
+        int count = Integer.parseInt(args[1]);
+        optimizedCount(num,count);
     }
 
     static void optimizedCount(int num,int count) {
@@ -14,7 +15,7 @@ public class Q46 {
         while(true) {
             // Check if 2^p - 1 is a prime (Mersenne prime)
             //why not check p is prime or not??
-            //because we just need to check either of them, as if any of them is true, the other exp. wopuld also be true
+            //because we just need to check either of them, as if any of them is true, the other exp. would also be true
             //e.g. if p is prime then (2^p - 1) should be prime, and vice versa.
             if(isPrime((1L<<p) - 1)) {  //(2^p) - 1
                 //ok its prime, lets calculate the perfect number
